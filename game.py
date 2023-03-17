@@ -30,7 +30,10 @@ print(f"Speed: {hero['speed']}")
 print("\nYour quest begins now. You must navigate through a dangerous forest to reach the castle and save the kingdom.")
 print("On your journey, you will encounter different obstacles.")
 print("You will use your stats and abilities to overcome these obstacles and reach the castle.\n")
-
+print(f"You have chosen the {choice}.")
+print(f"Strength: {hero['strength']}")
+print(f"Intelligence: {hero['intelligence']}")
+print(f"Speed: {hero['speed']}")
 obstacles = {
     "Goblin ambush": {"strength": 8, "intelligence": 6, "speed": 10},
     "Trap-filled maze": {"strength": 5, "intelligence": 10, "speed": 7},
