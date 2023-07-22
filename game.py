@@ -1,4 +1,4 @@
-print("Welcome to the Heroes game!")
+print("Welcome to the Heroes III game!")
 print("In this game, you will choose a hero and embark on a quest to save the kingdom.")
 print("The hero you choose will determine your starting stats and abilities.")
 print("Choose wisely and good luck on your quest!\n")
