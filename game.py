@@ -4,7 +4,7 @@ print("The hero you choose will determine your starting stats and abilities.")
 print("Choose wisely and good luck on your quest!\n")
 
 heroes = {
-    "Warrior": {"strength": 10, "intelligence": 5, "speed": 7},
+    "Warrior": {"strength": 10, "intelligence": 6, "speed": 7},
     "Mage": {"strength": 5, "intelligence": 10, "speed": 8},
     "Archer": {"strength": 7, "intelligence": 8, "speed": 10}
 }
